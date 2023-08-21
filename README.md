@@ -27,7 +27,7 @@ It is a React app that has a Add Transaction, Transaction List and Delete Transa
 
 ## Live App
 
-To view and test the app you can visit this [link]().
+To view and test the app you can visit this [link](https://expense-dekho.netlify.app/).
 
 ## Packages & Libraries
 
